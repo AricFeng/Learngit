@@ -1,4 +1,13 @@
 456
 789
+<<<<<<< HEAD
 changshiyxiia shi hao de
 Creating a new branch is quick $simple
+=======
+abc
+098
+765
+wer
+uyigitt
+Creating a new branch is quick AND simple
+>>>>>>> feature1
